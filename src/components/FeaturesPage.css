@@ -1,0 +1,53 @@
+.features-page {
+  font-family: Arial, sans-serif;
+}
+
+.features-header {
+  background-image: url('images/hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  color: Black;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.features-header h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.features-header p {
+  font-size: 1.5em;
+}
+
+.feature-section {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.feature-section h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.feature-section p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.feature-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-section li {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.features-footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}

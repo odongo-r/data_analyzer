@@ -1,0 +1,43 @@
+/* IntroSection.css */
+#intro {
+  background-image: url('images/intro-bg.jpg'); /* Ensure you have an image at this path */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align: center; 
+  margin-top: -10px;
+}
+
+.intro-content {
+  max-width: 550px;
+  margin: 0 auto;
+  background: rgba(245, 245, 245, 0.9);
+  padding: 60px;
+  border-radius: 10px;
+  
+}
+
+.intro-content h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.intro-content p {
+  font-size: 1.3em;
+  margin-bottom: 35px;
+}
+
+.intro-content .btn {
+  background-color: #28a745;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.intro-content .btn:hover {
+  background-color: #218838;
+}
+

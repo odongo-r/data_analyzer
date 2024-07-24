@@ -1,0 +1,32 @@
+/* About Section Styles */
+#about {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+#about .about-content {
+  max-width: 1200px;
+  margin: 0 auto; /* Center the content */
+  background: rgba(245, 245, 245, 0.9); /* Semi-transparent background */
+  padding: 80px;
+  border-radius: 10px; /* Rounded corners */
+}
+
+#about h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+#about p {
+  font-size: 1.2em;
+  margin-bottom: 20px; /* Adjust spacing between paragraphs */
+}
+
+#about a {
+  color: #28a745; /* Link color (customize as needed) */
+  text-decoration: none;
+}
+
+#about a:hover {
+  text-decoration: underline;
+}

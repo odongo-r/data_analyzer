@@ -1,0 +1,36 @@
+/* Demo.css */
+#demo {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.demo-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: rgba(245, 245, 245, 0.9);
+  padding: 60px;
+  border-radius: 10px;
+}
+
+.demo-content h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.demo-content p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.demo-content .btn {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.demo-content .btn:hover {
+  background-color: #0056b3;
+}
+

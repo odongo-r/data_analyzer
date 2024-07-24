@@ -1,0 +1,38 @@
+/* General Styles from AboutSection.css */
+/* (You can put these in a separate shared CSS file) */
+#features {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+/* Content Styles (shared with AboutSection) */
+#features .features-content {  /* Using the same class as AboutSection */
+  max-width: 1200px; 
+  margin: 0 auto;
+  background: rgba(245, 245, 245, 0.9); 
+  padding: 60px;
+  border-radius: 10px; 
+}
+
+#features h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+/* Features-Specific Styling */
+.feature { /* Keep the existing inline-block layout */
+  margin: 20px;
+  display: inline-block;
+  vertical-align: top;
+  width: 30%; /* Or adjust as needed */
+}
+
+.feature img {
+  max-width: 100%;
+  height: auto;
+}
+
+.feature h3 {
+  margin-top: 10px;
+  font-size: 1.5em; /* Optional: Increase heading size for emphasis */
+}
