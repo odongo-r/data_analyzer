@@ -8,7 +8,7 @@ The idea for Data Analyzer stemmed from my experiences with cumbersome data anal
 
 **Deployed Site:** [Data Analyzer Live](https://data-analyzer-429523.uc.r.appspot.com/)  
 **Final Project Blog Article:** [Read the Blog](https://medium.com/@ronaldodongo76/building-the-data-analyzer-a-journey-in-data-visualization-and-analysis-58302c6abd20)  
-**Author LinkedIn:** [Your LinkedIn](https://www.linkedin.com/posts/rodongo_building-the-data-analyzer-a-journey-in-activity-7221987977894199299-7Mmt?utm_source=share&utm_medium=member_desktop)
+**Author LinkedIn:** [My LinkedIn](https://www.linkedin.com/posts/rodongo_building-the-data-analyzer-a-journey-in-activity-7221987977894199299-7Mmt?utm_source=share&utm_medium=member_desktop)
 
 ## Installation
 To run this project locally, follow these steps:
