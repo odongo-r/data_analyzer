@@ -1,23 +1,26 @@
 /* App.css */
+
+/* Apply a global font family, margin, padding, and box-sizing to the entire document */
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  font-family: Arial, sans-serif; /* Sets the font for the entire page */
+  margin: 0; /* Removes default margin around the body */
+  padding: 0; /* Removes default padding around the body */
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
 }
 
+/* Add padding to all sections for consistent spacing */
 section {
-  padding: 60px 20px;
+  padding: 60px 20px; /* Adds padding to the top, bottom, left, and right of each section */
 }
 
-/* Ensure the app container takes up the full height of the viewport */
+/* Ensure the app container takes up the full height of the viewport and is laid out vertically */
 .app-container {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  min-height: 100vh; /* Ensures the container is at least as tall as the viewport */
+  display: flex; /* Uses flexbox to layout child elements */
+  flex-direction: column; /* Arranges child elements in a vertical column */
 }
 
-/* Main content should expand to fill available space */
+/* Main content should expand to fill the available space within the container */
 .main-content {
-  flex: 1;
+  flex: 1; /* Allows the main content to grow and fill the remaining space in the container */
 }
