@@ -46,8 +46,6 @@ We welcome contributions to the Data Analyzer project. Please follow these steps
 ## Licensing
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Screenshots
-![App Screenshot](path/to/screenshot.png)
 
 ## Technical Details
 The Data Analyzer application uses the following technologies:
